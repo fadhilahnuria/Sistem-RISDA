@@ -527,7 +527,7 @@ def halaman_research():
     col1, col2 = st.columns([6, 1])
     with col2:
         st.markdown("""
-        <a href="https://sdmbrin.streamlit.app" target="_blank">
+        <a href="https://sistem-sinergi-brin.streamlit.app/" target="_blank">
             <button style="
                 background-color: #2563eb;
                 color: white;
